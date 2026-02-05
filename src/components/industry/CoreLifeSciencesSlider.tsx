@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { ChevronLeft, ChevronRight, ArrowRight, Leaf, ShieldCheck, Activity, Users } from 'lucide-react';
 
-import corelife1 from '../../assets/CoreLifeSciences/BioPharma.png';
+import corelife1 from '../../assets/CoreLifeSciences/Biopharma.png';
 import corelife2 from '../../assets/CoreLifeSciences/ContractResearchOrganizations.png';
 import corelife3 from '../../assets/CoreLifeSciences/Regulatory&SafetyTeams.png';
 import corelife4 from '../../assets/CoreLifeSciences/MedicalAffairsTeams.png';
